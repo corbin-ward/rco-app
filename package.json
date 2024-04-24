@@ -12,7 +12,9 @@
     "@clerk/nextjs": "^5.0.1",
     "next": "14.2.2",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "stream-chat": "^8.26.0",
+    "stream-chat-react": "^11.15.1"
   },
   "devDependencies": {
     "@types/node": "^20",
